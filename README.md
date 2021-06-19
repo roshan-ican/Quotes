@@ -1,3 +1,10 @@
+
+Check it out on live server
+https://epic-boyd-d4f94d.netlify.app
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
