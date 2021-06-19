@@ -1,5 +1,5 @@
 Preview
-<img src="Quotes/img/Screenshot(29).png">
+<img src="https://github.com/roshan-ican/Quotes/blob/main/img/Screenshot%20(29).png"/>
 
 
 Check it out on live server
