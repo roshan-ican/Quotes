@@ -1,3 +1,6 @@
+Preview
+<img src="Quotes/img/Screenshot(29).png">
+
 
 Check it out on live server
 https://epic-boyd-d4f94d.netlify.app
